@@ -1,0 +1,9 @@
+
+LINK AZURE DEVOPS - https://dev.azure.com/RM96320/AgroSync
+
+INTEGRANTES
+
+94311	Marcos Henrique Bilobram dos Santos
+96320	Nathália de Queiroz Maia
+94972	Rafaela Gomes da Silva
+93613	Vinicius de Oliveira
